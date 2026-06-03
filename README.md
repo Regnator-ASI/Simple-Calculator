@@ -1,2 +1,12 @@
-# Simple-Calculator
-Calculator with basic operators for necessary regular calculations.
+# Animated Calculator
+
+A simple yet elegant Python calculator with animated buttons.
+
+## Features
+- Graphical user interface
+- Animated button interactions
+- Basic arithmetic operations
+
+## How to Run
+```bash
+python main.py

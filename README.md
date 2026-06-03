@@ -1,4 +1,4 @@
-# Animated Calculator
+# Simple Calculator
 
 A simple yet elegant Python calculator with animated buttons.
 
